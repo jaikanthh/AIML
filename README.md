@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is dedicated to my Project's in Artificial Intelligence and Machine Learning. It includes projects and implementations of algorithms related to AI and ML.
+This repository is dedicated to my Project's in Artificial Intelligence and Machine Learning. It includes projects related to AI and ML.
 
 ### Student Information
 
