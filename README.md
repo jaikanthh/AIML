@@ -50,20 +50,13 @@ Follow these steps to set up the project on your local machine:
 
 ## Usage
 
-### Recognize Faces in an Image
-
-To identify faces in a static image, run the main script with an image path:
-
-```bash
-python main.py --image path/to/image.jpg
-```
 
 ### Recognize Faces in a Video Stream
 
 To process a live video feed (e.g., from a webcam):
 
 ```bash
-python main.py --video
+python main.py
 ```
 
 **[Add other usage examples specific to your project, e.g., additional command-line arguments or modes]**
@@ -75,12 +68,12 @@ The face recognition system operates in three key steps:
 1. **Face Detection**: Detects faces using [e.g., Haar cascades, HOG, or MTCNN].
 2. **Feature Extraction**: Extracts facial features with [e.g., a pre-trained CNN or Dlib’s face encoding].
 3. **Recognition**: Matches features against a database of known faces.
+4. **Log**: Makes a Excel Sheet of detected faces with timestamps
 
 
 ## Examples
 
-[Include screenshots, GIFs, or code snippets here to demonstrate the project in action. For example:]  
-![Face Recognition Demo](path/to/demo.gif)
+![Alt text](.github/output.jpg)
 
 ## Contributing
 
