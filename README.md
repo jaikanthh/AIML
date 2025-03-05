@@ -13,11 +13,8 @@ This project implements a **face recognition system** capable of detecting and i
 
 ## Requirements
 
-- **Python 3.x**
-- **OpenCV**
-- **Dlib**
-- **NumPy**
-- [Add other dependencies specific to your project, e.g., TensorFlow, PyTorch]
+- **Python**
+- **Cmake**
 
 ## Installation
 
