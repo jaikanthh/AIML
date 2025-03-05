@@ -43,9 +43,10 @@ Follow these steps to set up the project on your local machine:
    pip install -r requirements.txt
    ```
 
-4. **[Optional] Download Pre-trained Models**  
-   If the project uses pre-trained models, download them as instructed here:  
-   [Provide links or instructions, e.g., "Download models from [link] and place them in the `models/` directory."]
+4. **Add Training Data**  
+   Make a folder with your name inside the "data" Folder and place your images in that respective folder.
+   If you dont see data folder either make one or just run the main.py once.   
+   
 
 ## Usage
 
